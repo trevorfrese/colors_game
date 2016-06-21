@@ -1,4 +1,19 @@
 .game_button{
-    height:100px;
-    border: 1px solid black;
+    height:100px !important;
+    width: 100px !important;
+    /*border: 1px solid black;*/
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: white;
+
+}
+
+.game_button:hover{
+    background-color: white;
+}
+
+.btn:hover {
+}
+
+.btn{
 }
